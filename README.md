@@ -1,7 +1,7 @@
 # sandbox
 sandbox for all types of learning
 - [ ] [JS][Javascript]
-- [ ] Mesosasdasdasd
+- [ ] Mesos
 - [ ] Kubernetes
 - [ ] asdDocker
 - [ ] Jenkins
