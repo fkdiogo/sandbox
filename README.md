@@ -5,6 +5,6 @@ sandbox for all types of learning
 - [ ] Kubernetes
 - [ ] Docker
 - [ ] Jenkins
-- [ ] <img src="http://rubyonrailsbrasil.com.br/images/ruby.svg" width="50px" height="50px" /> Ruby/Rails
+- [ ] <img src="http://rubyonrailsbrasil.com.br/images/ruby.svg" width="18px" height="18px" /> Ruby/Rails
 
 [Javascript]: <https://github.com/fkdiogo/javascript-learning-sandbox>
