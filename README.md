@@ -1,7 +1,9 @@
 # sandbox
 sandbox for all types of learning
-- [ ] JS
-- [ ] Mesos
+- [ ] [JS][JS]
+- [ ] Mesosasdasdasd
 - [ ] Kubernetes
-- [ ] Docker
+- [ ] asdDocker
 - [ ] Jenkins
+
+[JS]: <https://github.com/fkdiogo/javascript-learning-sandbox>
