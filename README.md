@@ -7,4 +7,4 @@ sandbox for all types of learning
 - [ ] Jenkins
 - [ ] <img src="http://rubyonrailsbrasil.com.br/images/ruby.svg" width="18px" height="18px" /> Ruby/Rails
 
-[Javascript]: <https://github.com/fkdiogo/javascript-learning-sandbox>
+[Javascript]: <https://github.com/fkdiogo/sandbox/tree/master/javascript-learning-sandbox>
