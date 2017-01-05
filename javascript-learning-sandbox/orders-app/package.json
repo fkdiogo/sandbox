@@ -1,0 +1,26 @@
+{
+  "name": "orders-app",
+  "version": "1.0.0",
+  "description": "application for playing with javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkdiogo/sandbox.git"
+  },
+  "keywords": [
+    "javascript",
+    "sandbox"
+  ],
+  "author": "mrholeechit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkdiogo/sandbox/issues"
+  },
+  "homepage": "https://github.com/fkdiogo/sandbox#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
