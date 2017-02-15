@@ -13,6 +13,10 @@ app.get('/', (req, res) => {
   res.send('\n\nHello, world!\n\n');
 });
 
+app.get('/healthcheck', (req,res) => {
+  res.send(200);
+});
+
 app.listen(port, () => {
   console.log(`listening on port ${ port }`);
 });
