@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/fkdiogo/sandbox#readme",
   "devDependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1",
     "webpack": "^2.2.1"
   },
   "dependencies": {
