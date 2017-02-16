@@ -4,8 +4,8 @@
   "description": "application for playing with javascript",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,9 @@
   "homepage": "https://github.com/fkdiogo/sandbox#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "nodemon": "^1.11.0"
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0",
+    "webpack": "^2.2.1"
   }
 }

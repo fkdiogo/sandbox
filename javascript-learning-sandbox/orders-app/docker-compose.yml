@@ -1,6 +1,6 @@
 web:
   build: .
-  command: npm start
+  command: npm test
   ports:
     - 3000:3000
   environment: 
