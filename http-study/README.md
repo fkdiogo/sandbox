@@ -5,3 +5,4 @@ sandbox for all http stuff
 - [ ] SSL
 - [ ] SMTP
 - [ ] TCP
+- [ ] Curl
