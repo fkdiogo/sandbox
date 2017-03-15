@@ -1,6 +1,7 @@
 import React from 'react';
+import ReactDom from 'react-dom';
 import util from './util/util';
 
+import App from './components/app';
 
-
-console.log(util.toUpper('testing to upper shit'));
+ReactDom.render(<App />, document.getElementById('main'));
